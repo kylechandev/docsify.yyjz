@@ -102,7 +102,7 @@
 				plugins: [
 					function (hook) {
 						// 增加文档更新日期显示
-						var footer = ["<hr/>", "<footer>", "<div>此文档最后更新于 {docsify-updated} </div>", "<span>kchankc</span>", "</footer>"].join("");
+						var footer = ["{docsify-updated}", "<br>", "kchankc"].join("");
 
 						// 每次开始解析 Markdown 内容时调用
 						hook.beforeEach(function (html) {
