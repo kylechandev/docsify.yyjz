@@ -6,4 +6,4 @@
 * 微信公众号：一羽记账
 * QQ群：一羽大家庭（609742784）`需通过[一羽记账APP->应用设置->关于应用]来加入`
 
-一羽记账为个人开发，负责的人只有[我](https://guide.yiyujizhang.cn/other/contact#whoami)一个（kylec47@foxmail.com），切勿被他人所骗。
+一羽记账为个人开发，负责的人只有[我](doc/other/contact.md)一个（kylec47@foxmail.com），切勿被他人所骗。

@@ -4,7 +4,7 @@
 
 关于WebDAV云备份，可以参考坚果云的[WebDAV授权教程](http://help.jianguoyun.com/?p=2064)
 
-!> **卸载重装会清除所有的数据，请在重装后使用**[**备份与恢复**](https://app.gitbook.com/@kylec47/s/yiyujizhang/~/drafts/-MSQfmniev9UONHYXW59/datamanage/backup)**功能进行数据恢复！**
+!> **卸载重装会清除所有的数据，请在重装后使用**[**备份与恢复**](doc/data-manage/data-backup.md)**功能进行数据恢复！**
 
 ## 序言
 

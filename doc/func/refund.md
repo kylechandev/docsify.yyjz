@@ -2,7 +2,7 @@
 
 从[**Android v4.0**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)版本开始，支持记录退款账单。
 
-> 开启入口：**我的 -> 记账设置 -> 允许负数金额**<br>仅Android v6.0版本以下需要手动开启。
+> 开启入口：**我的 -> 记账设置 -> 允许负数金额**<br>仅Android v6.0 iOS2.0版本以下需要手动开启。
 
 ## 退款记录方式
 
@@ -15,11 +15,11 @@
 
 例如： 记录一笔`酒店预订`支出500，然后需要退订，商家退款500给我们。那么如何记录这笔退款呢？我们可以再添加一笔账单，分类还是选择`酒店预订`，但此时金额填写`-500`，这样这笔退款账单就和之前的支出账单相抵消了，从而不会影响到整体的月收支。
 
-?> 此方式记录的退款和原账单没有关联，从[Android v6.0](https://www.coolapk.com/apk/247977)后，支持在账单详情中设置和原账单的关联。
+?> 此方式记录的退款和原账单没有关联，从[Android v6.0](https://www.coolapk.com/apk/247977) iOS2.0后，支持在账单详情中设置和原账单的关联。
 
 ### 2. 账单详情界面中点击退款按钮
 
-> 从[Android v6.0](https://www.coolapk.com/apk/247977)后，退款增加此记录方式<font color=orange>（此功能为Pro功能）</font>
+> 从[Android v6.0](https://www.coolapk.com/apk/247977) iOS2.0后，退款增加此记录方式<font color=orange>（此功能为Pro功能）</font>
 
 * 支持单条账单多次任意金额的退款
 
