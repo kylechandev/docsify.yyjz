@@ -16,7 +16,7 @@
 
 >`永久(本地)`指不支持服务器云同步数据。
 >
->一羽记账默认使用`本地备份`与[`WebDAV云备份`](https://guide.yiyujizhang.cn/datamanage/backup#cloud)来保存数据。
+>一羽记账默认使用`本地备份`与[`WebDAV云备份`](doc/data-manage/data-backup.md#cloud-backup)来保存数据。
 >
 >云同步功能仅永久会员(云同步)支持。
 

@@ -17,7 +17,7 @@
     * [**报销管理**](doc/func/reimb.md)
     * [**应收账款**](doc/func/advance-income.md)
     * [**账单标签**](doc/func/tag.md)
-    * [**统计分析**](doc/func/book.md)
+    * [**统计分析**](doc/func/stat.md)
     * [**记账日历**](doc/func/calendar.md)
     * [**退款**](doc/func/refund.md)
     * [**存钱计划**](doc/func/saving.md)
