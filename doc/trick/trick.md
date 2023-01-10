@@ -6,7 +6,7 @@
 
 > 在这个区域左右滑动
 
-![在这个区域左右滑动](https://s4.ax1x.com/2022/02/17/HIHpND.md.jpg ':size=45%')
+![在这个区域左右滑动](https://s4.ax1x.com/2022/02/17/HIHpND.md.jpg)
 
 ### 演示
 
