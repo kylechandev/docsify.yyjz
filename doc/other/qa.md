@@ -16,11 +16,11 @@
 
 **会，现已支持**。
 
-从[**Android v5.0版本**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)和**iOS1.0版本**后已支持[数据云同步](doc/other/about-sync.md)**。**数据云同步为[永久会员(云同步)服务](doc/other/about-sync.md)。数据存放在一羽记账自带的云服务器中，永久保存。
+从[**Android v5.0版本**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)和**iOS v1.0版本**后已支持[数据云同步](doc/other/about-sync.md)**。**数据云同步为[永久会员(云同步)服务](doc/other/about-sync.md)。数据存放在一羽记账自带的云服务器中，永久保存。
 
 [点此查看一羽记账Android最新版](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)
 
-## 会不会做IOS版本？
+## 会不会做iOS版本？
 
 已上架AppStore，支持iOS，iPadOS，正在适配macOS和watchOS。
 

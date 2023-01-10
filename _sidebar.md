@@ -22,7 +22,7 @@
     * [**退款**](doc/func/refund.md)
     * [**存钱计划**](doc/func/saving.md)
 * <font size=1 color=gray>小技巧</font>
-    * [**使用技巧**]()
+    * [**使用技巧**](doc/trick/trick.md)
 * <font size=1 color=gray>会员</font>
     * [**会员服务须知**](doc/pro/pro-service.md)
     * [**主题样式**](doc/pro/theme.md)

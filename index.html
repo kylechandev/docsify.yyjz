@@ -2,7 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>一羽记账</title>
+  <!-- 网站图标 -->
+  <link rel="shortcut icon" href="_icon/favicon.ico">
+  <!-- 网站index页面标题（_sidebar.md的每一项都要设置链接地址，否则这个标题不生效，会显示成没有设置链接地址的那个sidebar标题） -->
+  <title>一羽记账App使用文档</title>
+  <meta name="keywords" content="一羽记账App使用教程,一羽记账App,一羽记账App文档,一羽记账App用户手册">
+  <meta name="description" content="一羽记账App功能介绍，使用教程">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -20,8 +25,10 @@
   <div id="app">加载中</div>
   <script>
     window.$docsify = {
-      // 文档标题，会显示在侧边栏顶部
+      // 文档标题，会显示在侧边栏顶部 - 和logo二选一
       name: '一羽记账使用文档',
+      // 在侧边栏中出现的网站图标 - 和name二选一
+      logo: '/_media/icon.svg',
       // 右上角Github图标链接
       // repo: 'https://github.com/ZhiliangMa/easyio-lib-for-esp32'
       // 默认加载 _navbar.md，作为顶部导航栏
@@ -32,7 +39,7 @@
       maxLevel: 4,
       // 自定义侧边栏后默认不会再生成目录，你也可以通过设置生成目录的最大层级开启这个功能
       // 侧边栏根据目录显示标题
-      subMaxLevel: 3,
+      // subMaxLevel: 3,
       // 不要封面
       coverpage: false,
       // 页面搜索插件 - 在页面左上角
@@ -43,8 +50,6 @@
         noData: '找不到结果',
         depth: 3,
       },
-      // 在侧边栏中出现的网站图标
-      logo: '/_media/icon.svg',
       // 替换主题色
       themeColor: '#6488FB',
       // 开启emoji的解析
