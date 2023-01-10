@@ -93,21 +93,11 @@
 					headings: "h1, h2, h3, h4",
 					title: "目录",
 				},
-
-				// 插件功能
-				plugins: [
-					function (hook) {
-						// 每次开始解析 Markdown 内容时调用
-						hook.beforeEach(function (html) {
-							// 增加文档更新日期显示
-							return html + "\n----\n" + "> Last Modified { docsify-updated } ";
-						});
-
-						// 解析成 html 后调用
-						// hook.afterEach(function (html, next) {
-						// });
-					},
-				],
+				timeUpdater: {
+					text: ">最后更新时间: {docsify-updated}",
+					formatUpdated: "{YYYY}-{MM}-{DD}",
+					whereToPlace: "bottom", // "top" or "bottom", default to "bottom"
+				},
 			};
 		</script>
 		<!-- 引入 docsify script 压缩版 v4 -->
@@ -131,5 +121,7 @@
 		<!-- 阅读进度提示 -->
 		<!-- https://github.com/HerbertHe/docsify-progress -->
 		<script src="//cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
+		<!-- 文档最后更新时间 -->
+		<script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
 	</body>
 </html>
