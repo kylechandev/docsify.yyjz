@@ -100,7 +100,7 @@
 						// 每次开始解析 Markdown 内容时调用
 						hook.beforeEach(function (html) {
 							// 增加文档更新日期显示
-							return html + "\n----\n" + "> Last Modified {docsify-updated} ";
+							return html + "\n----\n" + "> Last Modified { docsify-updated } ";
 						});
 
 						// 解析成 html 后调用
