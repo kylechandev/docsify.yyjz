@@ -66,6 +66,10 @@
 				mergeNavbar: true,
 				// 显示文档更新日期格式
 				formatUpdated: "{YYYY}-{MM}-{DD}",
+				formatUpdated: function (time) {
+					// ...
+					return time;
+				},
 				// 外部链接打开方式 - 在新窗口或者标签页中打开
 				externalLinkTarget: "_blank", // default: '_blank'
 				// 防止新打开的外部页面（当 externalLinkTarget 设为 _blank 时）能够控制我们的页面
