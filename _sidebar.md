@@ -19,6 +19,7 @@
     * [**账单标签**](doc/func/tag.md)
     * [**统计分析**](doc/func/stat.md)
     * [**记账日历**](doc/func/calendar.md)
+    * [**定时提醒**](doc/func/reminder.md)
     * [**退款**](doc/func/refund.md)
     * [**存钱计划**](doc/func/saving.md)
 * <font size=1 color=gray>小技巧</font>
