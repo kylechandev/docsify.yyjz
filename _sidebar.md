@@ -41,14 +41,16 @@
 * <font size=1 color=gray>其他</font>
     * [**账号安全**](doc/other/account-secure.md)
     * [**权限申明(Android)**](doc/other/permision-android.md)
+    * [**常见问题**](doc/other/qa.md)
+    * [**关于数据云同步**](doc/other/about-sync.md)
+* <font size=1 color=gray>更新日志</font>
     * [**更新日志(Android)**](doc/other/changelog-android.md)
     * [**更新日志(iOS)**](doc/other/changelog-ios.md)
-    * [**常见问题**](doc/other/qa.md)
-    * [**联系我们**](doc/other/contact.md)
-    * [**关于数据云同步**](doc/other/about-sync.md)
 * <font size=1 color=gray>隐私与协议</font>
     * [**用户协议**](doc/policy/user-agreement.md)
     * [**隐私政策**](doc/policy/privacy-policy.md)
+* <font size=1 color=gray>联系我们</font>
+    * [**联系我们**](doc/other/contact.md)
 * [**开发进度/计划(Android)**](https://trello.com/b/R0SM2I6W/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-android)
 * [**开发进度/计划(iOS)**](https://trello.com/b/3U3RWaiS/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-ios)
 * [**最新版本下载(Andriod)**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)
