@@ -1,6 +1,4 @@
 * [**一羽记账 👋 认识新朋友**](doc/hi-friend.md)
-* <font size=1 color=gray>官网</font>
-    * [**www.yiyujizhang.cn**](https://www.yiyujizhang.cn)
 * <font size=1 color=gray>数据管理</font>
     * [**备份恢复**](doc/data-manage/data-backup.md)
     * [**导入数据**](doc/data-manage/import-data.md)
@@ -51,6 +49,8 @@
     * [**隐私政策**](doc/policy/privacy-policy.md)
 * <font size=1 color=gray>联系我们</font>
     * [**联系我们**](doc/other/contact.md)
+* <font size=1 color=gray>官网</font>
+    * [**www.yiyujizhang.cn**](https://www.yiyujizhang.cn)
 * [**开发进度/计划(Android)**](https://trello.com/b/R0SM2I6W/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-android)
 * [**开发进度/计划(iOS)**](https://trello.com/b/3U3RWaiS/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-ios)
 * [**最新版本下载(Andriod)**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)
