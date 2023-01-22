@@ -47,6 +47,9 @@
 * <font size=1 color=gray>隐私与协议</font>
     * [**用户协议**](doc/policy/user-agreement.md)
     * [**隐私政策**](doc/policy/privacy-policy.md)
+* <font size=1 color=gray>抽奖活动</font>
+    * [**动态抽奖 2022-01-30**](doc/act/2022-01-30.md)
+    * [**动态抽奖 2023-01-11**](doc/act/2023-01-11.md)
 * <font size=1 color=gray>联系我们</font>
     * [**联系我们**](doc/other/contact.md)
 * <font size=1 color=gray>官网</font>
