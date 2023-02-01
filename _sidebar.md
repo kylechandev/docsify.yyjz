@@ -41,6 +41,7 @@
     * [**权限申明(Android)**](doc/other/permision-android.md)
     * [**常见问题**](doc/other/qa.md)
     * [**关于数据云同步**](doc/other/about-sync.md)
+    * [**找不到某个功能在哪里使用？**](doc/other/func-pos.md)
 * <font size=1 color=gray>更新日志</font>
     * [**更新日志(Android)**](doc/other/changelog-android.md)
     * [**更新日志(iOS)**](doc/other/changelog-ios.md)
