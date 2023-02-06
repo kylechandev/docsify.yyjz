@@ -2,7 +2,7 @@
 
 从[**Android v4.0**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)版本开始，支持记录退款账单。
 
-> 开启入口：**我的 -> 记账设置 -> 允许负数金额**<br>仅Android v6.0 iOS2.0版本以下需要手动开启。
+> 开启入口：**我的 -> 记账设置 -> 允许负数金额**<br><br>仅Android v6.0 iOS2.0版本以下需要手动开启。
 
 ## 退款记录方式
 
