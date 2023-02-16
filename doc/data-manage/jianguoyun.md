@@ -1,4 +1,4 @@
-# 坚果云账号创建教程
+# 坚果云WebDAV配置教程
 
 > [**坚果云官方教程**](https://help.jianguoyun.com/?p=2064)
 >
