@@ -30,7 +30,7 @@
 
 ![账号以及密码](https://s1.ax1x.com/2023/02/16/pSbC34I.png '坚果云')
 
-![一羽配置WebDAV](https://s1.ax1x.com/2023/02/16/pSbPSPI.jpg '一羽记账')
+![一羽配置WebDAV](https://s1.ax1x.com/2023/02/16/pSbPSPI.jpg '一羽记账中配置')
 
 至此就配置完成啦，怎么样，很简单的吧~ 嘿嘿<br>祝你使用愉快~
 
