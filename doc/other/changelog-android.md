@@ -148,3 +148,7 @@
 * 修复：截图导入支付宝年份识别错误
 
 其他：差额报销、资产趋势、定时提醒转为免费功能
+
+
+
+> [v6.0前更新记录](https://guide.yiyujizhang.cn/other/changelog)
