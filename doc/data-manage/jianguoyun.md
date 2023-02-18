@@ -1,7 +1,5 @@
 # 坚果云WebDAV配置教程
 
-> [**坚果云官方教程**](https://help.jianguoyun.com/?p=2064)
->
 > [坚果云](https://www.jianguoyun.com/)是国内专业的网盘产品，安全可靠。
 >
 > （简要介绍）<br>WebDAV是一个协议，可以不打开网盘，外部通过WebDAV协议将文件存储进网盘中，存进网盘的文件一样可以在网盘中正常管理。
