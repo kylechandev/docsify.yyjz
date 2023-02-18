@@ -5,6 +5,8 @@
 ?>手机端通过点击页面**「左下角」**的菜单按钮，可以查看这本使用手册的目录哦~
 
 >[「Android版本」 开发计划/进度](https://trello.com/b/R0SM2I6W/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-android)
+>
+>[**「一羽记账Android最新版下载」**](https://www.coolapk.com/apk/247977)
 
 >[「iOS版本」 开发计划/进度](https://trello.com/b/R0SM2I6W/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-ios)
 
@@ -17,3 +19,5 @@
 > [联系我们](/doc/other/contact.md)
 
 > [官网：www.yiyujizhang.cn](https://www.yiyujizhang.cn)
+
+本文档更新同步Github：[**docsify.yyjz**](https://github.com/kylechandev/docsify.yyjz)<br><font color=gray size=1>(国内访问可能受限)</font>
