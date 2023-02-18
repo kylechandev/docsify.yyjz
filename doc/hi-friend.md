@@ -6,7 +6,7 @@
 
 >[「Android版本」 开发计划/进度](https://trello.com/b/R0SM2I6W/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-android)
 >
->**[「一羽记账Android最e新版下载」](https://www.coolapk.com/apk/247977)**
+>[「一羽记账Android版最新版下载」](https://www.coolapk.com/apk/247977)
 
 >[「iOS版本」 开发计划/进度](https://trello.com/b/R0SM2I6W/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-ios)
 
