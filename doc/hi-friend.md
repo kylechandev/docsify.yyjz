@@ -20,4 +20,4 @@
 
 > [官网：www.yiyujizhang.cn](https://www.yiyujizhang.cn)
 
-本文档更新同步Github：[**docsify.yyjz**](https://github.com/kylechandev/docsify.yyjz)<br><font color=gray size=1>(国内访问可能受限)</font>
+此手册更新同步Github：[**docsify.yyjz**](https://github.com/kylechandev/docsify.yyjz)<br><font color=gray size=1>(国内访问可能受限)</font>
