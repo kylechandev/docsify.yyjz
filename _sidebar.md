@@ -51,6 +51,7 @@
 * <font size=1 color=gray>抽奖活动</font>
     * [**动态抽奖 2022-01-30**](doc/act/2022-01-30.md)
     * [**动态抽奖 2023-01-11**](doc/act/2023-01-11.md)
+    * [**推广活动 2023-02**](doc/act/2023-02-promoting.md)
 * <font size=1 color=gray>联系我们</font>
     * [**联系我们**](doc/other/contact.md)
 * <font size=1 color=gray>官网</font>
