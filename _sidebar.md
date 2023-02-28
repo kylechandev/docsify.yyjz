@@ -20,6 +20,7 @@
     * [**标签**](doc/func/tag.md)
     * [**退款**](doc/func/refund.md)
     * [**存钱计划**](doc/func/saving.md)
+    * [**URL Scheme**](doc/func/url-scheme.md)
 * <font size=1 color=gray>小技巧</font>
     * [**实用技巧**](doc/trick/trick.md)
 * <font size=1 color=gray>会员</font>
