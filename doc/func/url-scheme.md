@@ -1,6 +1,6 @@
 # 开放URL Scheme
 
-!> 暂未上线
+?> 在**[Android v6.1.2](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)**以上版本支持。<br>该功能仅Android版本支持
 
 使用Android系统的URL Scheme，可以通过浏览器或者其他第三方软件跳转到一羽记账App。
 
