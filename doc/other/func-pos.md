@@ -27,3 +27,11 @@
 > 在资产管理界面中添加账户时，账户类型选择`债务`即可
 
 ![债务](https://s1.ax1x.com/2023/02/01/pSDChKs.jpg)
+
+## 支出退款
+
+> 在添加账单界面，直接输入`负数金额`即可表示退款（这种方式添加的退款和原始账单没有关联）
+
+具体可以查看[退款使用手册](/doc/func/refund.md)
+
+?> 如果在App内无法添加退款，请升级一羽记账到[最新版](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)。
