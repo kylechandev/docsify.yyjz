@@ -16,7 +16,7 @@
 
 > yyjz://newbill
 
-## 记账页面（传递参数）
+## 记账页面（传递参数） :id=addbill
 
 ?> 在[**Android v6.1.3**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)以上版本支持<br>
 
