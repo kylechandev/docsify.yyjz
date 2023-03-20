@@ -35,8 +35,8 @@
 | asset2   | 账户       | <font color=gray size=2>收支不填，转账必填</font>            | *根据账单类型* |
 | fee      | 转账手续费 | <font color=gray size=2>收支不填，转账可选填</font>          | 可选           |
 | remark   | 账单备注   | <font color=gray size=2>任意文本，不超过App内长度限制80</font> | 可选           |
-| datetime | 日期时间   | ex: `2023-03-12`  `2023-03-12 22:01:51` `2023-03-12 22:02`<br><font color=gray size=2>不填则默认为当前时间</font> | 可选           |
-| exbudget | 不计入预算 | <font color=gray size=2>仅收支类型可用</font>                | 可选           |
+| datetime | 日期时间   | ex: `2023-03-12`<br><br> `2023-03-12 22:01:51`<br><br> `2023-03-12 22:02`<br><font color=gray size=2>不填则默认为当前时间</font> | 可选           |
+| exbudget | 不计入预算 | <font color=gray size=2>仅支出类型可用</font>                | 可选           |
 | exstat   | 不计入收支 | <font color=gray size=2>仅收支类型可用</font>                | 可选           |
 | tags     | 标签名     | <font color=gray size=2>多个标签用英文逗号,分隔，总个数不超过App内限制4</font> | 可选           |
 
