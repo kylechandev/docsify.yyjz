@@ -26,7 +26,7 @@
 
 | 参数     | 说明       | 必须为                                                       | 填写           |
 | :------- | :--------- | ------------------------------------------------------------ | -------------- |
-| type     | 账单类型   | `0支出` `1收入` `2转账`                                      | **必填**       |
+| type     | 账单类型   | `0 - 支出`<br>`1 - 收入`<br>`2 - 转账`                       | **必填**       |
 | book     | 账本名     | <font color=gray size=2>不填则为默认账本</font>              | 可选           |
 | category | 分类名     | <font color=gray size=2>收支必填，转账不填</font>            | *根据账单类型* |
 | money    | 账单金额   | <font color=gray size=2>不超过App内金额限制88888888</font>   | **必填**       |
@@ -38,7 +38,7 @@
 | datetime | 日期时间   | ex: `2023-03-12`<br><br> `2023-03-12 22:01:51`<br><br> `2023-03-12 22:02`<br><font color=gray size=2>不填则默认为当前时间</font> | 可选           |
 | exbudget | 不计入预算 | <font color=gray size=2>仅支出类型可用</font>                | 可选           |
 | exstat   | 不计入收支 | <font color=gray size=2>仅收支类型可用</font>                | 可选           |
-| tags     | 标签名     | <font color=gray size=2>多个标签用英文逗号,分隔，总个数不超过App内限制4</font> | 可选           |
+| tags     | 标签名     | <font color=gray size=2>多个标签用`英文逗号,`分隔，总个数不超过App内限制4</font> | 可选           |
 
 ?> 示例：yyjz://addbill?type=0&money=12&category=早餐&remark=豆浆油条
 
