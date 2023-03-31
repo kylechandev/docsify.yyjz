@@ -19,6 +19,7 @@
     * [**定时提醒**](doc/func/reminder.md)
     * [**标签**](doc/func/tag.md)
     * [**退款**](doc/func/refund.md)
+    * [**不计入**](doc/func/notinclude.md)
     * [**存钱计划**](doc/func/saving.md)
     * [**URL Scheme**](doc/func/url-scheme.md)
 * <font size=1 color=gray>小技巧</font>
