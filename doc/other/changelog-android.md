@@ -6,6 +6,30 @@
 
 > [一羽记账Android最新版下载](https://www.coolapk.com/apk/247977)
 
+## 2023-04-05 - v6.2.1
+
+### 全新
+
+* MD3风格组件来啦
+
+Material Dialog
+
+Material BottomSheet
+
+Material Switch
+
+Material Checkbox
+
+Material Slider
+
+Material Menu
+
+Material Snackbar
+
+### 修复
+
+* 修复部分已知Bug
+
 ## 2023-03-30 - v6.2
 
 ### 新增
