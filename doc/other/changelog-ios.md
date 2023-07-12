@@ -4,6 +4,10 @@
 
 > [历史更新记录](https://guide.yiyujizhang.cn/other/changelog-ios)
 
+## 更新日志可直接在 App Store 查看历史更新记录
+
+
+
 ## 2023-02-25 - v2.1
 
 修复部分已知问题，优化使用体验
