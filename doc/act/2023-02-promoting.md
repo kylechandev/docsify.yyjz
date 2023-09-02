@@ -43,3 +43,7 @@
 ?> QQ: 1977721374<br>微信：kaichan99<br>邮箱：kylec47@foxmail.com<br><font color=gray size=2>\* 备注一羽记账会员兑换</font>
 
 > [激活码使用方式](/doc/pro/pro-service#cdk)
+
+!> 现在起发 QQ空间 或 微信朋友圈，请加我好友验证，最忌讳欺骗行为！<br>
+
+![不要用P图侮辱人](https://s1.ax1x.com/2023/09/02/pPBJ7o4.png)
