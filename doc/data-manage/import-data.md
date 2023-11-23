@@ -47,9 +47,9 @@
 
 | 平台             | 最后更新日期       | 支持类型/帮助                                                      | 支持             | 转 .csv 格式                    |
 | -------------- | ------------ | ------------------------------------------------------------ |:--------------:|:----------------------------:|
-| **微信账单**       | `2021/05/10` | `收入` `支出`[如何获取微信账单](doc/data-manage/get-wx-bill.md)          | Android/iOS    | -                            |
-| **支付宝账单(电脑端)** | `2021/05/10` | `收入` `支出`[如何获取支付宝账单](doc/data-manage/get-ali-bill.md#ali-pc) | Android/iOS    | -                            |
-| **支付宝账单(手机端)** | `2021/06/18` | `收入` `支出`[如何获取支付宝账单](doc/data-manage/get-ali-bill.md)        | Android/iOS    | -                            |
+| **微信账单**       | `2021/05/10` | `收入` `支出`[获取微信账单](doc/data-manage/get-wx-bill.md)          | Android/iOS    | -                            |
+| **支付宝账单(电脑端)** | `2021/05/10` | `收入` `支出`[获取支付宝账单](doc/data-manage/get-ali-bill.md#ali-pc) | Android/iOS    | -                            |
+| **支付宝账单(手机端)** | `2021/06/18` | `收入` `支出`[获取支付宝账单](doc/data-manage/get-ali-bill.md)        | Android/iOS    | -                            |
 | **鲨鱼记账**       | `2020/06/28` | `收入` `支出`                                                    | Android/iOS    | -                            |
 | **微记账**        | `2021/05/10` | `收入` `支出`                                                    | Android/iOS    | -                            |
 | **有鱼记账**       | `2020/06/28` | `收入` `支出`                                                    | Android/iOS    | -                            |
@@ -70,12 +70,7 @@
 
 #### 手动另存为 .csv 格式 :id=transfer-csv
 
-!> 以上平台的导出文件，如果是`.csv`格式，可以直接选择导入到一羽记账。<br>如果是`.xls`/`.xlsx`格式的文件，还需要先**另存为**`.csv`格式后再进行导入，不要直接改后缀，会导致无法识别。 <br><br>**！！！如果存在多个 sheet ，请切换到每个 sheet 依次做一次另存为 .csv 格式的操作，因为 .csv 格式只支持一个 sheet。例如：**<br>![导入 - excel多sheet](https://z1.ax1x.com/2023/11/23/piwZNLD.png)<br>请依次切换到「支出」「收入」「转账」工作表，做一次另存为 `.csv` 格式的操作，最后将转换为的三个 `.csv` 格式文件进行导入。<br><br>Excel 另存为 .csv 格式：<br>![导入 - exceltocsv1](https://z3.ax1x.com/2021/06/18/RpwtYj.png)<br>
-
-WPS 另存为 .csv 格式：<br>
-
-![导入 - exceltocsvwps1](https://z1.ax1x.com/2023/11/23/piwZbOU.png)![导入 - exceltocsvwps2](https://z1.ax1x.com/2023/11/23/piwZLmF.png)
-
+!> 以上平台的导出文件，如果是`.csv`格式，可以直接选择导入到一羽记账。<br>如果是`.xls`/`.xlsx`格式的文件，还需要先**另存为**`.csv`格式后再进行导入，不要直接改后缀，会导致无法识别。 <br><br>**！！！如果存在多个 sheet ，请切换到每个 sheet 依次做一次另存为 .csv 格式的操作，因为 .csv 格式只支持一个 sheet。例如：**<br>![导入 - excel多sheet](https://z1.ax1x.com/2023/11/23/piwZNLD.png)<br>请依次切换到「支出」「收入」「转账」工作表，做一次另存为 `.csv` 格式的操作，最后用转换出的三个 `.csv` 格式文件进行导入。<br><br>Excel 另存为 .csv 格式：<br>![导入 - exceltocsv1](https://z3.ax1x.com/2021/06/18/RpwtYj.png)<br>WPS 另存为 .csv 格式：<br>![导入 - exceltocsvwps1](https://z1.ax1x.com/2023/11/23/piwZbOU.png)![导入 - exceltocsvwps2](https://z1.ax1x.com/2023/11/23/piwZLmF.png)
 
 
 如果需要其他平台的支持，可以发送该平台的导出文件样例到`kylec47@qq.com`，样例中至少提供 **收入、支出、转账** 三种类型的数据各一项，会在收到后尽快安排在最近的版本更新中。
