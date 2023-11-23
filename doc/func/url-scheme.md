@@ -39,7 +39,7 @@
 | exbudget  | 不计入预算             | <font color=gray size=2>仅支出类型可用，1表示不计入预算，非1表示计入，默认计入</font>                                                            | 可选       |
 | exstat    | 不计入收支             | <font color=gray size=2>仅收支类型可用，1表示不计入收支，非1表示计入，默认计入</font>                                                            | 可选       |
 | tags      | 标签名               | <font color=gray size=2>多个标签用`英文逗号,`分隔，总个数不超过App内限制（4）</font>                                                          | 可选       |
-| showsheet | 打开确认记账弹框（可继续编辑记账） | v6.3.2新增：<br><font color=gray size=2>1表示弹窗确认记账，非1表示不弹窗直接完成记账，默认不弹窗</font>                                              | 可选       |
+| showsheet | 打开确认记账弹框（可继续编辑记账） | v6.3.2新增：<br><font color=gray size=2>1表示弹窗确认记账，非1表示不弹窗直接完成记账，默认不弹窗<br>如果此值传1，部分参数例如分类账户可以不传递，在弹出的窗口在再进行手动设置</font>     | 可选       |
 
 ?> 示例：yyjz://addbill?type=0&money=12&category=早餐&remark=豆浆油条
 
