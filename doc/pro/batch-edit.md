@@ -1,6 +1,6 @@
 # 批量操作
 
-从[**Android v5.0**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)开始，支持使用批量操作功能。 
+从[**Android v5.0**]开始，支持使用批量操作功能。 
 
 批量操作、快捷管理账单。
 

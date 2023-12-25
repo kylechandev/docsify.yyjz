@@ -1,6 +1,6 @@
 # 月起始日
 
-从[**Android v**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)[**4.0**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)版本开始，支持为每个账本设置月起始日。
+从[**Android v4.0**]版本开始，支持为每个账本设置月起始日。
 
 ## 应用场景
 

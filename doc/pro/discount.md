@@ -1,6 +1,6 @@
 # 优惠/手续费
 
-从[Android v6.0](https://www.coolapk.com/apk/247977) iOS v2.0后支持记录支出优惠。
+从[Android v6.0] iOS v2.0后支持记录支出优惠。
 
 可用来记录以下场景的账单：
 

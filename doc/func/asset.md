@@ -13,7 +13,7 @@
 
 ## 资产概览
 
-从[**Android v4.3.0**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)开始，资产概览的计算已改为如下方式：
+从[**Android v4.3.0**]开始，资产概览的计算已改为如下方式：
 
 - 总资产 = 所有为正数的账户的余额 + 债务(应收部分)
 - 总负债 = 所有为负数的账户的余额 + 信用账户分期未入账金额
@@ -23,7 +23,7 @@
 
 ## 信用账户
 
-从[**Android v3.3.2**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)开始，支持添加信用账户。
+从[**Android v3.3.2**]开始，支持添加信用账户。
 
 - `出账日`（必须设置）以及`账单日是否算在本期`，决定了每期账单的范围。
 - `还款日`（可选项）决定了提醒还款的目标日期。
@@ -40,7 +40,7 @@
 
 - **按分类记住账户**
 
-从[**Android v3.5.6**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)开始，支持按分类记住上次使用的账户。
+从[**Android v3.5.6**]开始，支持按分类记住上次使用的账户。
 
 **启用入口：记账设置 -> 记录上次使用的账户** 
 
@@ -66,13 +66,13 @@
 
 ## 自定义账户图标
 
-从[**Android v3.9.2**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)后，支持`内建自定义账户图标`。
+从[**Android v3.9.2**]后，支持`内建自定义账户图标`。
 
 在添加账户的界面中，点击左侧的账户图标，即可弹出选择内置账户图标的弹框。
 
 > 账户图标支持在线图标库， 可以搜索使用在线图标。<br>在线图标库目前收录量比较少，没有需要的图标可以联系kylec47@qq.com来添加或者直接自己自定义图标（网络图标url）
 
-从[**Android v5.5.0**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)后，支持`自定义上传账户图标`。<font color=orange>（此功能为Pro功能）</font>
+从[**Android v5.5.0**]后，支持`自定义上传账户图标`。<font color=orange>（此功能为Pro功能）</font>
 
 ## 删除账户
 

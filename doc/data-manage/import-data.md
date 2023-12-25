@@ -4,13 +4,11 @@
 
 数据导入可以将其他平台导出的数据转换成一羽记账的数据并保存。
 
-> [最新版本下载 (Android)](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)
-
-此文档仅适用于最新版本，最低支持[**Android v5.0**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)版本，请[升级到最新版后再使用](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)
+此文档仅适用于最新版本，最低支持[Android v5.0]版本，请升级到最新版后再使用
 
 ## 支持导入的账单类型
 
-从[**Android v4.1.6**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)开始，支持导入`转账类型`的账单。
+从[Android v4.1.6]开始，支持导入`转账类型`的账单。
 
 - 收入
 - 支出
@@ -22,7 +20,7 @@
 
 ### 模板导入（推荐🍓）
 
-!> 使用导入功能前，请确保自己使用的是[较新的版本](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)！
+!> 使用导入功能前，请确保自己使用的是最新版本！
 
 > [下载模板](https://www.yiyujizhang.cn/template.csv)
 
@@ -41,7 +39,7 @@
 | **账户**   | `收入` `支出`类型的账户，如果是`转账`类型，表示转出账户<br>`!!如果需要绑定账户，请导入前先在APP内创建同名账户!!`                                                                                                                                                     |
 | **账户2**  | 仅`转账`类型使用，表示转入账户<br>`!!如果需要绑定账户，请导入前先在APP内创建同名账户!!`                                                                                                                                                                    |
 | **备注**   | 账单备注，填写任意文本<br>`单条账单备注最大支持长度为80个字符`                                                                                                                                                                                    |
-| **账单图片** | 账单图片（从[Android v5.6.3](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)版本后支持），填写图片链接，最多支持三个，多个链接直接以英文逗号分隔，<br>`[ex: https://example.png,https://example.png,https://example.png]`                                |
+| **账单图片** | 账单图片（从[Android v5.6.3]版本后支持），填写图片链接，最多支持三个，多个链接直接以英文逗号分隔，<br>`[ex: https://example.png,https://example.png,https://example.png]`                                                                                       |
 
 ### 支持直接导入的平台  :id=support-platforms
 
@@ -78,7 +76,7 @@
 
 如果需要其他平台的支持，可以发送该平台的导出文件样例到`kylec47@qq.com`，样例中至少提供 **收入、支出、转账** 三种类型的数据各一项，会在收到后尽快安排在最近的版本更新中。
 
-### 截图导入（[Android v5.0](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)新增）
+### 截图导入（[Android v5.0]新增）
 
 通过OCR识别账单流水截图并自动导入账单，使用方式请[查看这里](doc/pro/ocr-import.md)。
 
@@ -88,7 +86,7 @@
 
 ?> iOS版本暂不支持此方式
 
-!> 使用导入功能前，请确保自己使用的是[较新的版本](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)！
+!> 使用导入功能前，请确保自己使用的是最新版本！
 
 通过在系统文件管理器、微信、QQ等方式选择文件并以【**导入到一羽**】方式打开文件，即可进入数据导入的界面，并自动解析该文件。
 

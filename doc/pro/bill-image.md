@@ -2,7 +2,7 @@
 
 <font color=gray>账单图片备注功能说明</font>
 
-从[**Android v**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)[**4.2.0**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)版本开始，支持为账单添加图片备注。
+从[**Android v4.2.0**]版本开始，支持为账单添加图片备注。
 
 添加图片到账单中，可用于保存`网购订单信息`或`超市购物小票`等等。
 

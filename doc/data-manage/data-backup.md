@@ -6,8 +6,6 @@
 
 !> 请务必使用该功能，数据无价，认真对待自己的数据！
 
-> [最新版本下载(Android)](https://www.coolapk.com/apk/247977)
-
 ## 本地备份（Android）
 
 ### 应用私有目录（Android）
@@ -50,9 +48,9 @@
 
 ### 自动云备份策略  :id=cloud-backup-strategy
 
-从[**Android v4.0**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)版本开始，支持设置自动云备份策略。<font color=orange>（此功能为Pro功能）</font>
+从[**Android v4.0**]版本开始，支持设置自动云备份策略。<font color=orange>（此功能为Pro功能）</font>
 
-从[**Android v6.0.9(3)**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)版本开始，**已移除此功能**。
+从[**Android v6.0.9(3)**]版本开始，**已移除此功能**。
 
 !> 开启自动云备份策略后，<br>只有`据上一次备份的时间间隔，数据操作次数，据上一次App启动时间`在满足策略条件后才真正执行备份文件上传。<br>策略开启后，不是每次打开应用都会进行云备份。所以，在极端情况下，可能存在部分数据没来得及进行备份，但最多不超过8条账单。所以请根据自身使用情况来决定是否需要开启策略。
 
@@ -92,8 +90,6 @@
    iOS版本：![首页账本ios](https://z1.ax1x.com/2023/11/25/piwjcn0.png)
 
 3. **「未正确备份数据」**，备份文件中并没有任何数据，就是一个空的，此时恢复备份肯定也显示不出来数据的。
-
-
 
 !> 请勿在低版本恢复从高版本备份的文件，因为数据库升级，低版本无法识别高版本的备份，会导致 App 闪退。
 

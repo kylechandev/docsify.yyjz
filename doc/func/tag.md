@@ -1,6 +1,6 @@
 # 账单标签
 
-从[**Android v4.3.0**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)版本开始，支持账单标签功能。
+从[**Android v4.3.0**]版本开始，支持账单标签功能。
 
 添加账单时为账单打上`#tag`，然后通过`#tag`来回顾这一批账单。总的来说，标签十分的强大，可以实现各种想要的效果。
 

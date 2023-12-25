@@ -1,6 +1,6 @@
 # 主题样式
 
-从[**Android v4.0**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)开始，支持设置切换应用的主题样式。
+从[**Android v4.0**]开始，支持设置切换应用的主题样式。
 
 > 入口：应用设置 -> 主题样式
 

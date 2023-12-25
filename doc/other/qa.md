@@ -24,9 +24,7 @@
 
 **会，现已支持**。
 
-从[**Android v5.0版本**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)和**iOS v1.0版本**后已支持[数据云同步](doc/other/about-sync.md)**。**数据云同步为[永久会员(云同步)服务](doc/other/about-sync.md)。数据存放在一羽记账自带的云服务器中，永久保存。
-
-[点此查看一羽记账Android最新版](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)
+从[**Android v5.0版本**]和**iOS v1.0版本**后已支持[数据云同步](doc/other/about-sync.md)**。**数据云同步为[永久会员(云同步)服务](doc/other/about-sync.md)。数据存放在一羽记账自带的云服务器中，永久保存。
 
 ## 会不会做iOS版本？
 
@@ -66,7 +64,7 @@
 
 不可以单独设置不显示。如果不想看到余额变更记录，可以在修改账户余额的时候选择不生成余额变更记录。
 
-?> 从[**Android v5.0**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)版本开始，余额变更记录已不再显示在首页位置。
+?> 从[**Android v5.0**]版本开始，余额变更记录已不再显示在首页位置。
 
 ## 账户设置了不计入总资产，为什么首页、统计等流水里还是包括？
 
@@ -100,7 +98,7 @@
 
 对于还款时默认还当前期的欠款，这个目前无法实现，今后也应该不会去做的。一羽记账对于信用账户实际是不区分「已出帐单」和「未出账单」的，信用账户其实本质上就是按照普通账户来处理的，至于账户详情界面看到的「每期账单」，那都是根据设置的出账日计算出来的，只是为了方便查看。所以还款的时候，只能识别到信用账户当前的总欠款。至于实际还多少，在还款界面修改成你实际要还的金额就行了。
 
-> 从[Android v6.0.2](https://www.coolapk.com/apk/kylec.me.lightbookkeeping) iOS v2.0.1开始，支持默认还款上期账单
+> 从[Android v6.0.2] iOS v2.0.1开始，支持默认还款上期账单
 
 ## 账单列表可不可以优先展示备注而不是分类？
 

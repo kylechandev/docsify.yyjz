@@ -35,7 +35,7 @@
 
 ### 差额报销
 
-从[**Android v4.0**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)开始，支持差额报销功能。
+从[**Android v4.0**]开始，支持差额报销功能。
 
 ?> 该功能为Pro功能，在Android6.0版本开始转为免费功能。
 

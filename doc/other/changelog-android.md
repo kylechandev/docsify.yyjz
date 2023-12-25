@@ -4,8 +4,6 @@
 
 > [历史更新记录](https://guide.yiyujizhang.cn/other/changelog)
 
-> [一羽记账Android最新版下载](https://www.coolapk.com/apk/247977)
-
 Android应用市场审核时间不一，可能需要等待2-3天。
 
 ## 2023-12-24 - v6.5.5

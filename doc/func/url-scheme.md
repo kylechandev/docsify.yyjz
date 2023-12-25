@@ -1,6 +1,6 @@
 # 开放URL Scheme
 
-?> 在[**Android v6.1.2**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)以上版本支持<br>该功能仅Android版本支持
+?> 在[**Android v6.1.2**]以上版本支持<br>该功能仅Android版本支持
 
 使用Android系统的URL Scheme，可以通过浏览器或者其他第三方软件跳转到一羽记账App。
 
@@ -18,7 +18,7 @@
 
 ## 记账页面（传递参数） :id=addbill
 
-?> 在[**Android v6.1.3**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)以上版本支持<br>
+?> 在[**Android v6.1.3**]以上版本支持<br>
 
 <font color=gray size=2>* 手机端建议横屏查看</font>
 

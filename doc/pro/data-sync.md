@@ -2,7 +2,7 @@
 
 ## 介绍
 
-从[**Android v5.0**](https://www.coolapk.com/apk/kylec.me.lightbookkeeping)开始，支持数据云同步功能。仅<font color=orange>永久会员(云同步)</font>可用。
+从[**Android v5.0**]开始，支持数据云同步功能。仅<font color=orange>永久会员(云同步)</font>可用。
 
 支持自动同步数据到一羽记账的云服务器中。
 
