@@ -5,8 +5,6 @@
 ?>手机端通过点击页面**「左下角」**的菜单按钮，可以查看这本使用手册的目录哦~
 
 > [「Android版本」 开发计划/进度](https://trello.com/b/R0SM2I6W/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-android)
-> 
-> 
 
 > [「iOS版本」 开发计划/进度](https://trello.com/b/R0SM2I6W/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-ios)
 
@@ -20,4 +18,4 @@
 
 > [官网：www.yiyujizhang.cn](https://www.yiyujizhang.cn)
 
-<font color=gray>2023</font>
+<font color=gray>2024</font>
