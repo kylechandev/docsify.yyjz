@@ -4,8 +4,6 @@
 
 * 邮箱：kylec47@foxmail.com
 * 微信公众号：一羽记账
-* QQ群1：一羽大家庭（609742784）
-* QQ群2：一羽大家庭-后花园（722047520）
 
 一羽记账为个人开发，负责的人只有我一个（kylec47@foxmail.com），切勿被他人所骗。
 
@@ -13,11 +11,11 @@
 
 请注明：一羽记账
 
+* 邮箱：[kylec47@foxmail.com](mailto:kylec47@foxmail.com)
 * QQ：1977721374
 * V：同Q
-* 邮箱：kylec47@foxmail.com
 
-> 我的ID：
+> 我使用过的ID：
 > 
 > 「一只成成成阿」
 > 
