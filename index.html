@@ -88,11 +88,18 @@
 					// 显示章节名
 					crossChapterText: true,
 				},
-				toc: {
-					scope: ".markdown-section",
-					headings: "h1, h2, h3, h4",
-					title: "目录",
-				},
+				// Tabs
+				tabs: {
+					// 确定页面刷新/重新访问后是否恢复选项卡选择
+					persist: true, // default
+					// 确定选项卡选择是否将在具有匹配标签的选项卡之间同步
+    				sync: true, // default
+    				// 设置选项卡主题。 false 值表示不应应用任何主题，在创建自定义选项卡主题时应使用该主题
+    				// 'classic', 'material', false
+    				theme: 'classic', // default
+    				tabComments: true, // default
+    				tabHeadings: true // default
+				}
 			};
 		</script>
 		<!-- 引入 docsify script 压缩版 v4 -->
@@ -122,5 +129,7 @@
 		<!-- 文档最后更新时间 -->
 		<!-- {docsify-updated} 对于静态托管网站netlify等无效，暂时先不弄这个了 -->
 		<!-- <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script> -->
+		<!-- Tabs -->
+		<script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
 	</body>
 </html>
