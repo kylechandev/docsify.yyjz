@@ -2,11 +2,9 @@
 
 <font color=gray>嗨！这里是一羽记账！一个让你享受记账的小可爱！</font>
 
-?>手机端通过点击页面**「左下角」**的菜单按钮，可以查看这本使用手册的目录哦~
+?>手机端通过点击页面 **「左下角」** 的菜单按钮，可以查看这本使用手册的目录哦~
 
-> [「Android版本」 开发计划/进度](https://trello.com/b/R0SM2I6W/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-android)
-
-> [「iOS版本」 开发计划/进度](https://trello.com/b/R0SM2I6W/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-ios)
+> [开发计划/进度](https://trello.com/b/R0SM2I6W/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-android)
 
 2019/11/05，轻记账小可爱破壳而出<br>2019/12/19，轻记账正式改名：一羽记账 
 
