@@ -12,8 +12,7 @@
 请注明：一羽记账
 
 * 邮箱：[kylec47@foxmail.com](mailto:kylec47@foxmail.com)
-* QQ：1977721374
-* V：同Q
+* 微信：1977721374
 
 > 我使用过的ID：
 > 
