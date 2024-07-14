@@ -34,6 +34,7 @@
     * [微信账单流水截图获取](doc/pro/get-wx-bill.md)
     * [微信零钱明细截图获取](doc/pro/get-wx-pocket.md)
     * [微信零钱通明细截图获取](doc/pro/get-wx-lqt.md)
+  * [**自动记账**](doc/pro/auto-bill.md)
   * [**数据云同步**](doc/pro/data-sync.md)
   * [**账单图片**](doc/pro/bill-image.md)
   * [**月起始日**](doc/pro/start-day-of-month.md)
