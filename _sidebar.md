@@ -46,9 +46,7 @@
   * [**关于数据云同步**](doc/other/about-sync.md)
   * [**找不到某个功能在哪里使用？**](doc/other/func-pos.md)
 * <font size=1 color=gray>更新日志</font>
-  * [**更新日志(HarmonyOS)**](doc/other/changelog-harmonyos.md)
   * [**更新日志(Android)**](doc/other/changelog-android.md)
-  * [**更新日志(iOS)**](doc/other/changelog-ios.md)
 * <font size=1 color=gray>隐私与协议</font>
   * [**用户协议**](https://www.yiyujizhang.cn/user_agreement.html)
   * [**隐私政策**](https://www.yiyujizhang.cn/privacy.html)
