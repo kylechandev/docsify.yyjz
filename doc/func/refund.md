@@ -31,8 +31,8 @@
 
 2. 进入退款操作界面
 
-![退款界面](https://s1.ax1x.com/2023/02/21/pSjGuWj.jpg ':size=50%')
+<img src="https://s1.ax1x.com/2023/02/21/pSjGuWj.jpg" title=":size=50%" alt="退款界面" width="271">
 
 3. 退款关联效果
 
-![退款界面](https://s1.ax1x.com/2023/02/21/pSjGmFg.jpg ':size=50%')
+<img src="https://s1.ax1x.com/2023/02/21/pSjGmFg.jpg" title=":size=50%" alt="退款界面" width="279">

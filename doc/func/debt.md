@@ -8,7 +8,7 @@
 
 > 添加账户时选择债务类型
 
-![债务](https://s1.ax1x.com/2023/02/01/pSDChKs.jpg)
+<img title="" src="https://s1.ax1x.com/2023/02/01/pSDChKs.jpg" alt="债务" width="220">
 
 ## 建议的使用方式
 

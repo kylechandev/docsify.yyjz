@@ -106,11 +106,9 @@
 
 如果需要其他第三方 App 的导入，可以提交适配申请：[第三方记账 App 适配申请](https://f.wps.cn/g/eiLsmwAu/)
 
-
-
 #### 手动另存为 .csv 格式 :id=transfer-csv
 
-!> 以上平台的导出文件，如果是`.csv`格式，可以直接选择导入到一羽记账。<br>如果是`.xls`/`.xlsx`格式的文件，还需要先**另存为**`.csv`格式后再进行导入，不要直接改后缀，会导致无法识别。 <br><br>**！！！如果存在多个 sheet ，请切换到每个 sheet 依次做一次另存为 .csv 格式的操作，因为 .csv 格式只支持一个 sheet。例如：**<br>![导入 - excel多sheet](https://z1.ax1x.com/2023/11/23/piwZNLD.png)<br>请依次切换到「支出」「收入」「转账」工作表，做一次另存为 `.csv` 格式的操作，最后用转换出的三个 `.csv` 格式文件进行导入。<br><br>Excel 另存为 .csv 格式：<br>![导入 - exceltocsv1](https://z3.ax1x.com/2021/06/18/RpwtYj.png)<br><br>WPS 另存为 .csv 格式（可下载手机端 WPS APP 操作）：<br>![导入 - exceltocsvwps1](https://z1.ax1x.com/2023/11/23/piwZbOU.png)![导入 - exceltocsvwps2](https://z1.ax1x.com/2023/11/23/piwZLmF.png)
+!> 以上平台的导出文件，如果是`.csv`格式，可以直接选择导入到一羽记账。<br>如果是`.xls`/`.xlsx`格式的文件，还需要先**另存为**`.csv`格式后再进行导入，不要直接改后缀，会导致无法识别。 <br><br>**！！！如果存在多个 sheet ，请切换到每个 sheet 依次做一次另存为 .csv 格式的操作，因为 .csv 格式只支持一个 sheet。例如：**<br><img src="https://z1.ax1x.com/2023/11/23/piwZNLD.png" title="" alt="导入 - excel多sheet" width="484"><br>请依次切换到「支出」「收入」「转账」工作表，做一次另存为 `.csv` 格式的操作，最后用转换出的三个 `.csv` 格式文件进行导入。<br><br>Excel 另存为 .csv 格式：<br><img src="https://z3.ax1x.com/2021/06/18/RpwtYj.png" title="" alt="导入 - exceltocsv1" width="351"><br><br>WPS 另存为 .csv 格式（可下载手机端 WPS APP 操作）：<br><img src="https://z1.ax1x.com/2023/11/23/piwZbOU.png" title="" alt="导入 - exceltocsvwps1" width="490"><img src="https://z1.ax1x.com/2023/11/23/piwZLmF.png" title="" alt="导入 - exceltocsvwps2" width="495">
 
 ### 截图导入（[Android v5.0]新增）
 
@@ -133,19 +131,19 @@
 1. 打开系统的文件管理器，选择要导入的账单文件（.csv格式）
 2. 点击或长按文件，选择【**用其他应用打开**】（根据手机而定，如果没有可跳过这步）
 
-![导入 - 导入到一羽](https://z3.ax1x.com/2021/06/18/Rp0Ivq.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/Rp0Ivq.jpg" title="" alt="导入 - 导入到一羽" width="210">
 
 3. 在文件打开方式的系统弹框中，选择【**导入到一羽】**
 
-![导入 - 其他应用打开](https://z3.ax1x.com/2021/06/18/Rp0tHO.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/Rp0tHO.jpg" title="" alt="导入 - 其他应用打开" width="190">
 
 4. 之后便会自动打开一羽记账，此时一羽会尝试解析选择的导入文件，并自动识别导入文件所在的平台（[已支持的平台](#`support-platforms`)）。导入文件解析成功后，选择需要导入到的账本（如果启用了多账本功能）。请确保导入文件已被支持，否则无法导入。
 
-![导入 - 自动识别](https://z3.ax1x.com/2021/06/18/R9S1JK.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/R9S1JK.jpg" title="" alt="导入 - 自动识别" width="207">
 
 5. 点击`开始导入`按钮，一羽记账会解析导入文件的账单数据，在解析完成后，会将即将导入的数据展示出来，确认无误后，点击`确认导入`按钮保存本次的导入数据。（再次提醒：如果需要账单绑定账户，请务必在导入前先在APP中创建同名账户）
 
-![导入结果预览](https://z3.ax1x.com/2021/09/02/hrHIHA.png)
+<img title="" src="https://z3.ax1x.com/2021/09/02/hrHIHA.png" alt="导入结果预览" width="208">
 
 ### 直接选择
 

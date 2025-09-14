@@ -85,9 +85,11 @@
    
    Android版本:
    
-   ![首页账本android](https://z1.ax1x.com/2023/11/25/piwjgBV.jpg)
+   <img title="" src="https://z1.ax1x.com/2023/11/25/piwjgBV.jpg" alt="首页账本android" width="382">
    
-   iOS版本：![首页账本ios](https://z1.ax1x.com/2023/11/25/piwjcn0.png)
+   iOS版本：
+   
+   <img title="" src="https://z1.ax1x.com/2023/11/25/piwjcn0.png" alt="首页账本ios" width="444">
 
 3. **「未正确备份数据」**，备份文件中并没有任何数据，就是一个空的，此时恢复备份肯定也显示不出来数据的。
 

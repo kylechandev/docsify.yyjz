@@ -100,7 +100,7 @@ Android v7.3 版本后，支持自动记账功能。
 
 表现形式是：在无障碍界面，无法开启无障碍权限 或 列表呈现灰色。
 
-<img src="https://s21.ax1x.com/2024/07/27/pkqVseg.jpg" title="" alt="受限制的设置" width="392">
+<img title="" src="https://s21.ax1x.com/2024/07/27/pkqVseg.jpg" alt="受限制的设置" width="282">
 
 解决办法：
 
@@ -108,11 +108,11 @@ Android v7.3 版本后，支持自动记账功能。
 
 然后在系统应用设置中如下操作：
 
-![受限制的设置通用](https://s21.ax1x.com/2024/07/27/pkqVhlV.png)
+<img src="https://s21.ax1x.com/2024/07/27/pkqVhlV.png" title="" alt="受限制的设置通用" width="411">
 
 注：小米手机的操作位置可能有所不同：
 
-![受限制的设置小米](https://s21.ax1x.com/2024/07/27/pkqVDOS.png)
+<img src="https://s21.ax1x.com/2024/07/27/pkqVDOS.png" title="" alt="受限制的设置小米" width="410">
 
 ### 支付完成界面无法显示自动记账面板
 
@@ -152,7 +152,7 @@ Android v7.3 版本后，支持自动记账功能。
 
 例如：
 
-![自动记账日期](https://s21.ax1x.com/2024/08/09/pASeai6.jpg)
+<img src="https://s21.ax1x.com/2024/08/09/pASeai6.jpg" title="" alt="自动记账日期" width="422">
 
 解决办法：
 

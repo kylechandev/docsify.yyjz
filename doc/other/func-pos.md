@@ -6,13 +6,13 @@
 
 > 打开一羽记账App，点击首页右上角的「日常账本」即可进入账本管理界面
 
-![多账本](https://s1.ax1x.com/2023/02/01/pSDC5bq.jpg)
+<img title="" src="https://s1.ax1x.com/2023/02/01/pSDC5bq.jpg" alt="多账本" width="297">
 
 ### [月起始日](/doc/pro/start-day-of-month.md)
 
 通过上面提到的，点击「账本管理」进入到账本管理界面，点击想要操作的账本，进入账本详情页面，在这里可以设置月起始日（每个账本可以设置不同的月起始日）
 
-![月起始日](https://s1.ax1x.com/2023/02/18/pSLlmfP.jpg)
+<img src="https://s1.ax1x.com/2023/02/18/pSLlmfP.jpg" title="" alt="月起始日" width="296">
 
 ## 预算
 
@@ -20,13 +20,13 @@
 > 
 > Tips: 如果此处没有显示，应该是之前不小心被关闭了，可以前往`记账设置->自定义记账界面与功能`，选择开启预算功能，然后返回首页即可看见预算卡片。
 
-![预算管理](https://s1.ax1x.com/2023/02/01/pSDC4rn.jpg)
+<img title="" src="https://s1.ax1x.com/2023/02/01/pSDC4rn.jpg" alt="预算管理" width="295">
 
 ## 债务/借入借出
 
 > 在资产管理界面中添加账户时，账户类型选择`债务`即可
 
-![债务](https://s1.ax1x.com/2023/02/01/pSDChKs.jpg)
+<img src="https://s1.ax1x.com/2023/02/01/pSDChKs.jpg" title="" alt="债务" width="286">
 
 ## 支出退款
 

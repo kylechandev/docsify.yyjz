@@ -84,5 +84,4 @@
 
 支持将账户与账本设置多对多关联，用于管理多套账本多套账户的使用场景。
 
-![设置账本关联](https://s11.ax1x.com/2024/01/22/pFZDbm6.jpg)
-![按账本查看账户](https://s11.ax1x.com/2024/01/22/pFZD7Ox.jpg)
+<img src="https://s11.ax1x.com/2024/01/22/pFZDbm6.jpg" title="" alt="设置账本关联" width="189">    <img title="" src="https://s11.ax1x.com/2024/01/22/pFZD7Ox.jpg" alt="按账本查看账户" width="189">

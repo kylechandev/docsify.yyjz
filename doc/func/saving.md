@@ -8,7 +8,7 @@
 > * 定额存钱
 > * 自由存钱
 
-![存钱计划](https://s1.ax1x.com/2023/01/10/pSejckV.jpg)
+<img title="" src="https://s1.ax1x.com/2023/01/10/pSejckV.jpg" alt="存钱计划" width="291">
 
 ### 存钱模式
 

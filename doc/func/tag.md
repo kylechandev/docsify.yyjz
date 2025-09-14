@@ -18,7 +18,7 @@
 
 在标签管理页面中选择想要查看的标签，再选择`统计`或`查看账单`即可。
 
-![标签管理](https://z3.ax1x.com/2021/09/01/hBxBwQ.png)
+<img src="https://z3.ax1x.com/2021/09/01/hBxBwQ.png" title="" alt="标签管理" width="252">
 
 ## 标签分组（二级标签）
 

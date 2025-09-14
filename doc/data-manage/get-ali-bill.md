@@ -6,27 +6,27 @@
 
 ### 在手机端打开支付宝，进入我的界面，点击账单
 
-![导入 - 支付宝1](https://z3.ax1x.com/2021/06/18/RpgCpF.jpg)
+<img title="" src="https://z3.ax1x.com/2021/06/18/RpgCpF.jpg" alt="导入 - 支付宝1" width="448">
 
 ### 然后点击菜单按钮
 
-![导入 - 支付宝2](https://z3.ax1x.com/2021/06/18/RpczkV.jpg)
+<img title="" src="https://z3.ax1x.com/2021/06/18/RpczkV.jpg" alt="导入 - 支付宝2" width="440">
 
 ### 点击开具交易流水证明
 
-![导入 - 支付宝3](https://z3.ax1x.com/2021/06/18/RpgSYT.jpg)
+<img title="" src="https://z3.ax1x.com/2021/06/18/RpgSYT.jpg" alt="导入 - 支付宝3" width="421">
 
 ### 点击用于个人对账
 
-![导入 - 支付宝4](https://z3.ax1x.com/2021/06/18/Rpgi6J.jpg)
+<img title="" src="https://z3.ax1x.com/2021/06/18/Rpgi6J.jpg" alt="导入 - 支付宝4" width="287">
 
 ### 选择交易流水范围
 
-![导入 - 支付宝5](https://z3.ax1x.com/2021/06/18/RpgPl4.jpg)
+<img title="" src="https://z3.ax1x.com/2021/06/18/RpgPl4.jpg" alt="导入 - 支付宝5" width="287">
 
 ### 填写电子邮箱
 
-![导入 - 支付宝6](https://z3.ax1x.com/2021/06/18/RpgpfU.jpg)
+<img title="" src="https://z3.ax1x.com/2021/06/18/RpgpfU.jpg" alt="导入 - 支付宝6" width="409">
 
 ## 电脑端获取  :id=ali-pc
 
@@ -36,8 +36,8 @@
 
 登录成功后的界面：
 
-![zfb](https://i.loli.net/2021/05/17/49ACyOq5xj7l3nF.jpg)
+<img title="" src="https://i.loli.net/2021/05/17/49ACyOq5xj7l3nF.jpg" alt="zfb" width="486">
 
 点击右上角的**交易记录**，然后在目标页面下载账单：
 
-![下载账单](https://z3.ax1x.com/2021/06/18/RpBBoF.png)
+<img title="" src="https://z3.ax1x.com/2021/06/18/RpBBoF.png" alt="下载账单" width="486">

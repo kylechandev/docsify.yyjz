@@ -24,18 +24,18 @@
 
 ### 选择用于个人对账
 
-![6](https://z3.ax1x.com/2021/06/18/RpzAud.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/RpzAud.jpg" title="" alt="6" width="209">
 
 ### 选择需要下载的账单流水，并点击下一步
 
-![7](https://z3.ax1x.com/2021/06/18/RpvCa6.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/RpvCa6.jpg" title="" alt="7" width="173">
 
 ### 填写邮箱地址，并点击下一步
 
-![8](https://z3.ax1x.com/2021/06/18/RpvFPO.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/RpvFPO.jpg" title="" alt="8" width="164">
 
 ### 输入支付密码，确认导出账单，之后账单文件的压缩包会发送到指定的邮箱中
 
 ### 稍等片刻，在微信支付公众号中会收到文件的解压码
 
-![9](https://z3.ax1x.com/2021/06/18/RpvARe.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/RpvARe.jpg" title="" alt="9" width="277">

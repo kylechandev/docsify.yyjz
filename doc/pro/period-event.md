@@ -4,13 +4,13 @@
 
 用于添加周期性重复任务，例如手机话费、水电费等等，一羽记账将会在周期时间内自动创建并保存记录，解放双手，记账upupup。
 
-![周期事件 - 列表](https://z3.ax1x.com/2021/06/18/R9pn1S.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/R9pn1S.jpg" title="" alt="周期事件 - 列表" width="208">
 
 ## 添加周期事件
 
 重复周期，起始日期，结束日期为必设项。
 
-![周期事件 - 添加](https://z3.ax1x.com/2021/06/18/R9pKXQ.jpg)
+<img title="" src="https://z3.ax1x.com/2021/06/18/R9pKXQ.jpg" alt="周期事件 - 添加" width="201">
 
 ### 重复周期
 

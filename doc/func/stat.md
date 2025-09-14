@@ -4,13 +4,13 @@
 
 ## 分析
 
-![统计 - 分析](https://z3.ax1x.com/2021/06/18/RpqRXt.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/RpqRXt.jpg" title="" alt="统计 - 分析" width="241">
 
 ### 支持强大的自定义统计日期范围
 
 只需要点击顶部的日期即可设置，并提供`周/月/年`的快速切换：
 
-![统计 - 日期过滤](https://z3.ax1x.com/2021/06/18/RpqIAS.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/RpqIAS.jpg" title="" alt="统计 - 日期过滤" width="234">
 
 ### 设置统计界面的显示
 
@@ -18,7 +18,7 @@
 
 同时支持`统计不计入预算的账单`的选项，如果关闭该选项，那么设置了不计入预算的账单将不会包括在统计数据中。
 
-![统计 - 设置](https://z3.ax1x.com/2021/06/18/Rpqh0f.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/Rpqh0f.jpg" title="" alt="统计 - 设置" width="360">
 
 ## 概览
 
@@ -28,4 +28,4 @@
 - 资产概览
   - 点击饼图区块，可查看详细的资产列表，并可进入资产详情界面
 
-![统计 - 概览](https://z3.ax1x.com/2021/06/18/Rpqste.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/Rpqste.jpg" title="" alt="统计 - 概览" width="272">

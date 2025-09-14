@@ -14,11 +14,11 @@
 
 ### 支出优惠
 
-![优惠](https://s1.ax1x.com/2023/01/10/pSeX4dP.png)
+<img src="https://s1.ax1x.com/2023/01/10/pSeX4dP.png" title="" alt="优惠" width="426">
 
 ### 转账手续费/还款优惠
 
-![fee](https://s1.ax1x.com/2023/02/21/pSjGUfJ.jpg)
+<img src="https://s1.ax1x.com/2023/02/21/pSjGUfJ.jpg" title="" alt="fee" width="392">
 
 ## 记录方式
 
@@ -28,10 +28,10 @@
 
 ?> 如果此处没有显示`优惠`按钮，请在`记账设置->记账界面功能自定义`中开启`优惠`功能。
 
-![](https://s1.ax1x.com/2023/01/10/pSeXTJS.jpg)
+<img title="" src="https://s1.ax1x.com/2023/01/10/pSeXTJS.jpg" alt="" width="293">
 
 ### 转账手续费/还款优惠
 
 进入记账页面，切换到转账，点击`手续费/优惠`按钮进行输入。
 
-![fee](https://s1.ax1x.com/2023/01/10/pSeX5If.jpg)
+<img src="https://s1.ax1x.com/2023/01/10/pSeX5If.jpg" title="" alt="fee" width="287">

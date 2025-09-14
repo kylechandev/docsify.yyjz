@@ -24,7 +24,7 @@
 
 点击`已入账`的每期账单，可以查看该期的已入账账单记录。
 
-![分期详情](https://z3.ax1x.com/2021/06/18/RpdiVg.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/RpdiVg.jpg" title="" alt="分期详情" width="244">
 
 #### 分期属性
 
@@ -32,15 +32,15 @@
 
 添加完分期事件后，分期总本金+总手续费会直接**全额**影响到账户的剩余额度和当前的**总负债。**
 
-![资产管理分期账款](https://z3.ax1x.com/2021/06/18/RpdGGR.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/RpdGGR.jpg" title="" alt="资产管理分期账款" width="318">
 
 同时，在单个信用账户的详情页也可以看到账户的分期信息：
 
-![分期状态](https://z3.ax1x.com/2021/06/18/RpdyRI.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/RpdyRI.jpg" title="" alt="分期状态" width="314">
 
 如果当前账户存在分期，点击`剩余额度`也可以查看到分期信息（剩余额度的详细计算方式）
 
-![剩余额度计算](https://z3.ax1x.com/2021/06/18/RpdfeS.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/RpdfeS.jpg" title="" alt="剩余额度计算" width="308">
 
 ## 账单分期
 
@@ -56,7 +56,7 @@
 
 要添加账单分期，请点击下图所示的`分期`按钮，然后选择需要进行分期的账单。
 
-![开始账单分期](https://z3.ax1x.com/2021/06/18/RpdzFJ.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/RpdzFJ.jpg" title="" alt="开始账单分期" width="270">
 
 要添加账单分期，当前账户需要满足：
 
@@ -72,7 +72,7 @@
 
 对账单分期后，可以在信用账户详情页的每期账单中，看到该期的分期金额信息。同时账户的当前欠款和分期未入账金额都会进行更新。
 
-![每期账单分期信息](https://z3.ax1x.com/2021/06/18/Rpwiy6.jpg)
+<img src="https://z3.ax1x.com/2021/06/18/Rpwiy6.jpg" title="" alt="每期账单分期信息" width="463">
 
 #### 最后
 

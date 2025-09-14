@@ -45,7 +45,7 @@
 
 showsheet参数效果图：
 
-![showsheet参数效果图](https://z1.ax1x.com/2023/11/13/piJlIkn.jpg)
+<img src="https://z1.ax1x.com/2023/11/13/piJlIkn.jpg" title="" alt="showsheet参数效果图" width="235">
 
 账户参数支持自动保存映射，后续传参相同账户名可以自动映射到App内真实账户。
 

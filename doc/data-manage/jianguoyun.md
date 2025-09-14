@@ -1,7 +1,7 @@
 # 坚果云WebDAV配置教程
 
 > [坚果云](https://www.jianguoyun.com/)是国内专业的网盘产品，安全可靠。
->
+> 
 > （简要介绍）<br>WebDAV是一个协议，可以不打开网盘，外部通过WebDAV协议将文件存储进网盘中，存进网盘的文件一样可以在网盘中正常管理。
 
 ## 一羽记账 & 坚果云WebDAV 帮助教程
@@ -20,21 +20,21 @@
 
 > [**「点击打开坚果云官网」**](https://www.jianguoyun.com/d/login#from=https://www.jianguoyun.com/)，输入邮箱进行坚果云账号注册并登录
 
-![注册登录坚果云](https://s1.ax1x.com/2023/02/18/pSqqE5T.png)
+<img title="" src="https://s1.ax1x.com/2023/02/18/pSqqE5T.png" alt="注册登录坚果云" width="300">
 
 ### 第二步、打开安全中心
 
 > [**「点击打开坚果云账号安全中心」**](https://www.jianguoyun.com/d/home?pc=1#/safety)<br><br>滑动到底部<br>1. 找到`第三方应用管理`<br>2. 点击`添加应用`<br>3. 输入`一羽记账`<br>4. 点击`生成密码`
 
-![添加三方应用](https://s1.ax1x.com/2023/02/18/pSqqkV0.png)
+<img title="" src="https://s1.ax1x.com/2023/02/18/pSqqkV0.png" alt="添加三方应用" width="319">
 
 ### 第三步、获取并输入账号到一羽记账
 
 > 依次复制刚刚创建的<br>1. 服务器地址<br>2. 账户<br>3. 应用密码<br>填写到一羽记账的WebDAV配置中<br>
 
-![账号以及密码](https://s1.ax1x.com/2023/02/18/pSqqAaV.png '坚果云')
+<img src="https://s1.ax1x.com/2023/02/18/pSqqAaV.png" title="坚果云" alt="账号以及密码" width="450">
 
-![一羽配置WebDAV](https://s1.ax1x.com/2023/02/18/pSqqibq.jpg '一羽记账中配置')
+<img title="一羽记账中配置" src="https://s1.ax1x.com/2023/02/18/pSqqibq.jpg" alt="一羽配置WebDAV" width="356">
 
 点击「链接」，即完成了坚果云WebDAV的配置。
 

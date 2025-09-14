@@ -5,7 +5,7 @@
 - 点击界面顶部的日期标题，可快速切换日历所在的日期
 - 点击右下角`+`按钮，快速以日历选中的日期进行记账
 
-![统计 - 日历](https://z3.ax1x.com/2021/06/18/RpqThQ.jpg)
+<img title="" src="https://z3.ax1x.com/2021/06/18/RpqThQ.jpg" alt="统计 - 日历" width="172">
 
 ## 日历样式
 
@@ -16,4 +16,4 @@
    1. 支持显示每日的收支数据
    2. 支持显示信用卡待还款标记
 
-![日历样式 -  详细视图](https://z3.ax1x.com/2021/10/16/5JSfZn.md.jpg)
+<img src="https://z3.ax1x.com/2021/10/16/5JSfZn.md.jpg" title="" alt="日历样式 -  详细视图" width="246">
