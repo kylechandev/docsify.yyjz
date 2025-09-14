@@ -39,6 +39,7 @@
   * [**账单图片**](doc/pro/bill-image.md)
   * [**月起始日**](doc/pro/start-day-of-month.md)
   * [**优惠/手续费**](doc/pro/discount.md)
+  * [**记账地点**](doc/pro/bill-location.md)
 * <font size=1 color=gray>其他</font>
   * [**账号安全**](doc/other/account-secure.md)
   * [**权限申明(Android)**](doc/other/permision-android.md)
