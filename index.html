@@ -3,24 +3,47 @@
 	<head>
 		<meta charset="UTF-8" />
 		<link rel="shortcut icon" href="_icon/favicon.ico" />
-		<title>一羽记账App文档</title>
+		<title>一羽记账App手册</title>
 		<meta name="keywords" content="一羽记账App使用教程手册" />
 		<meta name="description" content="一羽记账App功能介绍使用手册" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 		<meta name="description" content="Description" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
-		<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
+		<link rel="stylesheet" href="//fastly.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
+		<link rel="stylesheet" href="https://unpkg.com/docsify-plugin-toc@1.3.1/dist/light.css">
+		<link rel="stylesheet" href="//fastly.jsdelivr.net/gh/SDU-Little-River/docsify-fontsize@latest/darkmode.css">
+
 		<style>
 			.app-name-link > img {
 				width: 15%;
 			}
+			:root {
+				--dark-base-background: #222;
+   				--dark-base-color: #bbc0c4;
+   				--dark-theme-color: var(--theme-color, #42b983);
+   				--dark-code-color: var(--dark-color);
+   				--dark-heading-color: #FFFFFF;
+   				--dark-cover-background: #000000a8;
+   				--dark-code-background: #303030;
+   				--dark-tip-background: #2c0000;
+   				--dark-warn-background: #005842;
+   				--dark-icon-size: 25px;
+   				--dark-icon-transition: .1s ease-in-out .1s;
+   				--dark-moon-color: #000000;
+   				--dark-sun-color: #FFFFFF;
+
+   				--sidebar-nav-link-color--active: var(--theme-color, #42b983);
+   				--text-color-base: #808080;
+   			.font-size-display {
+   				display: none !important;
+   			}
 		</style>
 	</head>
 	<body>
-		<div id="app">加载中</div>
+		<div id="app">正在加载文档内容</div>
 		<script>
 			window.$docsify = {
-				name: "一羽记账App文档",
+				name: "一羽记账App手册",
 				logo: "/_media/icon.svg",
 				homepage: "doc/hi-friend.md",
 				loadNavbar: true,
@@ -61,16 +84,31 @@
     				tabComments: true,
     				tabHeadings: true,
 				},
+				toc: {
+					tocMaxLevel: 5,
+					target: 'h2, h3, h4, h5, h6',
+					ignoreHeaders:  ['<!-- {docsify-ignore} -->', '<!-- {docsify-ignore-all} -->']},
+				timeUpdater: {
+					text: ">最后更新时间: {docsify-updated}",
+					formatUpdated: "{YYYY}/{MM}/{DD}",
+					whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
+				},
 			};
 		</script>
-		<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js" data-ga="UA-188343083-1"></script>
-		<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
-		<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-		<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-		<script src="//cdn.jsdelivr.net/npm/docsify-count@1.1.0/dist/countable.min.js"></script>
-		<script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
-		<script src="//cdn.jsdelivr.net/gh/h-hg/docsify-image-caption/dist/docsify-image-caption.min.js"></script>
-		<script src="//cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
-		<script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+		<script src="//fastly.jsdelivr.net/npm/docsify@4/lib/docsify.min.js" data-ga="UA-188343083-1"></script>
+		<script src="//fastly.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+		<script src="//fastly.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+		<script src="//fastly.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+		<script src="//fastly.jsdelivr.net/npm/docsify-count@1.1.0/dist/countable.min.js"></script>
+		<script src="//fastly.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+		<script src="//fastly.jsdelivr.net/gh/h-hg/docsify-image-caption/dist/docsify-image-caption.min.js"></script>
+		<script src="//fastly.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
+		<script src="https://fastly.jsdelivr.net/npm/docsify-tabs@1"></script>
+		<script src="https://unpkg.com/docsify-plugin-toc@1.3.1/dist/docsify-plugin-toc.min.js"></script>
+		<script src="//fastly.jsdelivr.net/gh/LIGMATV/docsify-dark-switcher@latest/docsify-dark-switcher.js"></script>
+		<script src="//fastly.jsdelivr.net/gh/SDU-Little-River/docsify-fontsize@latest/fontsize.js"></script>
+		<script src="https://fastly.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+		<script src="//fastly.jsdelivr.net/npm/@sy-records/docsify-loading/dist/index.min.js"></script>
+		<script src="//fastly.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 	</body>
 </html>
