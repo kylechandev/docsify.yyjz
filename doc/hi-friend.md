@@ -6,6 +6,18 @@
 
 > [开发计划/进度](https://trello.com/b/R0SM2I6W/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-android)
 
+
+
+> **支持平台：**
+> 
+> **[Android](https://m.app.mi.com/details?id=kylec.me.lightbookkeeping)**
+> 
+> **[iOS](https://apps.apple.com/app/id1633351912)**
+> 
+> **[HarmonyOS NEXT](https://appgallery.huawei.com/app/detail?id=kaic.xjn.yiyujizhang)**
+
+
+
 2019/11/05，轻记账小可爱破壳而出<br>2019/12/19，轻记账正式改名：一羽记账 
 
 嗨！你好呀！<br>我是一羽，想带给你一场酣畅淋漓的记账体验~<br>颜值至上、极速启动、功能丰富并始终保持着苗条小身材
