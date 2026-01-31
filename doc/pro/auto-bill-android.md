@@ -1,4 +1,4 @@
-# 自动记账(Android)
+# 自动记账 (Android)
 
 Android v7.3 版本后，支持自动记账功能。
 

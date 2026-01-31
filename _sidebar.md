@@ -7,7 +7,7 @@
 * <font size=1 color=gray>功能引导</font>
   * [**多账本**](doc/func/book.md)
   * [**资产管理**](doc/func/asset.md)
-    * [债务(借入借出)](doc/func/debt.md)
+    * [债务 (借入借出)](doc/func/debt.md)
   * [**预算管理**](doc/func/budget.md)
   * [**分类管理**](doc/func/category.md)
     * [导入分类](doc/func/category-import.md)
@@ -34,7 +34,8 @@
     * [微信账单流水截图获取](doc/pro/get-wx-bill.md)
     * [微信零钱明细截图获取](doc/pro/get-wx-pocket.md)
     * [微信零钱通明细截图获取](doc/pro/get-wx-lqt.md)
-  * [**自动记账(Android)**](doc/pro/auto-bill-android.md)
+  * [**自动记账 (Android)**](doc/pro/auto-bill-android.md)
+  * [**快捷指令记账 (iOS)**](doc/pro/shortcut-bill-ios.md)
   * [**数据云同步**](doc/pro/data-sync.md)
   * [**账单图片**](doc/pro/bill-image.md)
   * [**月起始日**](doc/pro/start-day-of-month.md)
@@ -42,12 +43,12 @@
   * [**记账地点**](doc/pro/bill-location.md)
 * <font size=1 color=gray>其他</font>
   * [**账号安全**](doc/other/account-secure.md)
-  * [**权限申明(Android)**](doc/other/permision-android.md)
+  * [**权限申明 (Android)**](doc/other/permision-android.md)
   * [**常见问题**](doc/other/qa.md)
   * [**关于数据云同步**](doc/other/about-sync.md)
   * [**找不到某个功能在哪里使用？**](doc/other/func-pos.md)
 * <font size=1 color=gray>更新日志</font>
-  * [**更新日志(Android)**](doc/other/changelog-android.md)
+  * [**更新日志**](doc/other/changelog-android.md)
 * <font size=1 color=gray>隐私与协议</font>
   * [**用户协议**](https://www.yiyujizhang.cn/user_agreement.html)
   * [**隐私政策**](https://www.yiyujizhang.cn/privacy.html)
@@ -57,5 +58,4 @@
   * [**联系我们**](doc/other/contact.md)
 * <font size=1 color=gray>官网</font>
   * [**www.yiyujizhang.cn**](https://www.yiyujizhang.cn)
-* [**开发进度/计划(Android)**](https://trello.com/b/R0SM2I6W/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-android)
-* [**开发进度/计划(iOS)**](https://trello.com/b/3U3RWaiS/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-ios)
+* [**开发进度/计划**](https://trello.com/b/R0SM2I6W/%E4%B8%80%E7%BE%BD%E8%AE%B0%E8%B4%A6-android)

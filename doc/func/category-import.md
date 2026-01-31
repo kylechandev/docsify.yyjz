@@ -1,6 +1,6 @@
-# 导入分类
+# 导入分类 (Android)
 
-?> iOS端暂不支持此功能
+?> iOS/HarmonyOS NEXT 端暂不支持此功能
 
 通过系统文件管理器、微信、QQ等方式选择`分类导出文件`，并选择文件打开方式为`一羽记账的导入分类`。具体方式同[导入账单数据](doc/data-manage/import-data.md#import-way)完全一致。
 
