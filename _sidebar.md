@@ -45,7 +45,7 @@
   * [**多币种**](doc/pro/currency.md)
   * [**定期存款**](doc/pro/fixed-deposit.md)
 * AI Pro
-  * [**AI 识别智能记账**](doc/aipro/aibill.md)
+  * [**AI 智能记账**](doc/aipro/aibill.md)
 * <font size=1 color=gray>其他</font>
   * [**账号安全**](doc/other/account-secure.md)
   * [**权限申明 (Android)**](doc/other/permision-android.md)
