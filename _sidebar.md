@@ -24,7 +24,7 @@
   * [**URL Scheme**](doc/func/url-scheme.md)
 * <font size=1 color=gray>小技巧</font>
   * [**实用技巧**](doc/trick/trick.md)
-* <font size=1 color=gray>会员</font>
+* <font size=1 color=gray>一羽 Pro</font>
   * [**会员服务须知**](https://mb1vpahxo3.feishu.cn/wiki/wikcnFOeN46rzYmTAl6ka822iNf)
   * [**主题样式**](doc/pro/theme.md)
   * [**周期事件**](doc/pro/period-event.md)
@@ -44,6 +44,8 @@
   * [**记账地点**](doc/pro/bill-location.md)
   * [**多币种**](doc/pro/currency.md)
   * [**定期存款**](doc/pro/fixed-deposit.md)
+* AI Pro
+  * [**AI 识别智能记账**](doc/aipro/aibill.md)
 * <font size=1 color=gray>其他</font>
   * [**账号安全**](doc/other/account-secure.md)
   * [**权限申明 (Android)**](doc/other/permision-android.md)
