@@ -58,7 +58,8 @@
   * [**用户协议**](https://www.yiyujizhang.cn/user_agreement.html)
   * [**隐私政策**](https://www.yiyujizhang.cn/privacy.html)
 * <font size=1 color=gray>抽奖活动</font>
-  * [**活动记录**](doc/act/act.md)
+  * [**最新活动 (进行中)**](https://www.yiyujizhang.cn/activities/)
+  * [**历史活动记录**](doc/act/act.md)
 * <font size=1 color=gray>联系我们</font>
   * [**联系我们**](doc/other/contact.md)
 * <font size=1 color=gray>官网</font>
