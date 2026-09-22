@@ -26,6 +26,7 @@
   * [**实用技巧**](doc/trick/trick.md)
 * <font size=1 color=gray>一羽 Pro</font>
   * [**会员服务须知**](https://mb1vpahxo3.feishu.cn/wiki/wikcnFOeN46rzYmTAl6ka822iNf)
+  * [**数据云同步**](doc/pro/data-sync.md)
   * [**主题样式**](doc/pro/theme.md)
   * [**周期事件**](doc/pro/period-event.md)
   * [**分期事件**](doc/pro/installment-event.md)
@@ -37,7 +38,6 @@
   * [**自动记账 (Android)**](doc/pro/auto-bill-android.md)
   * [**自动记账 (iOS)**](doc/pro/auto-bill-ios.md)
   * [**自动记账 (HarmonyOS Next)**](doc/pro/auto-bill-ohos.md)
-  * [**数据云同步**](doc/pro/data-sync.md)
   * [**账单图片**](doc/pro/bill-image.md)
   * [**月起始日**](doc/pro/start-day-of-month.md)
   * [**优惠/手续费**](doc/pro/discount.md)
