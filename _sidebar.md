@@ -25,7 +25,7 @@
 * <font size=1 color=gray>小技巧</font>
   * [**实用技巧**](doc/trick/trick.md)
 * <font size=1 color=gray>一羽 Pro</font>
-  * [**会员服务须知**](https://mb1vpahxo3.feishu.cn/wiki/wikcnFOeN46rzYmTAl6ka822iNf)
+  * [**会员服务须知**](https://www.yiyujizhang.cn/membership)
   * [**数据云同步**](doc/pro/data-sync.md)
   * [**主题样式**](doc/pro/theme.md)
   * [**周期事件**](doc/pro/period-event.md)
