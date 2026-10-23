@@ -2,7 +2,7 @@
 
 不想逐项填写账单时，可以在首页输入一句话，或直接说出消费内容。一羽记账会通过 AI 提取金额、分类、账户等信息，生成账单预览；确认后才会保存。
 
-![一句话记账与语音记账 iOS 界面示例](/_media/ai_bill_intro_ios.png)
+<img src="https://raw.giteeusercontent.com/kylechandev/yiyujizhang/raw/master/guide/ai/ai_bill_intro_ios.png" alt="一句话记账与语音记账 iOS 界面示例" referrerpolicy="no-referrer" />
 
 ## 使用前先开启 AI 模式
 
