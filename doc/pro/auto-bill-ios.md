@@ -7,5 +7,6 @@
 
 
 <p>
+  <a href="https://www.yiyujizhang.cn/autobill/ios/" target="_blank" rel="noopener" style="display:inline-block;margin:8px 8px 8px 0;padding:10px 16px;background:#6488FB;color:#fff;text-decoration:none;border-radius:6px;">iOS 自动记账配置教程</a><br><br>
   <a href="https://www.yiyujizhang.cn/autobill/" target="_blank" rel="noopener" style="display:inline-block;margin:8px 8px 8px 0;padding:10px 16px;background:#6488FB;color:#fff;text-decoration:none;border-radius:6px;">查看已支持的自动记账界面</a>
 </p>
